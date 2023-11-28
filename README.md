@@ -29,7 +29,7 @@ python ping_automater.py -f ip_list.txt
 
 ### Output
 The tool will display a list of reachable IPs and unreachable IPs, along with the total count of each category.
-![Example Output](https://imgur.com/a/0aVuMXy)
+![Example Output](PingAutomater.png)
 
 ### Contributions
 Contributions are welcome! Feel free to fork the repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss your ideas.
